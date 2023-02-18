@@ -1,0 +1,8 @@
+---
+name: TCPShield
+version: 0.0.1
+author: ItsZodiaX
+main: zodiax\TCPShield\Main
+api: 4.15.1
+src-namespace-prefix: zodiax\TCPShield
+...
